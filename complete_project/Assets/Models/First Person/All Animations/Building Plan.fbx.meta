@@ -1,0 +1,727 @@
+fileFormatVersion: 2
+guid: f81d2cc70430a8547bc1c21978a42734
+timeCreated: 1485743870
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Arm_L
+    100002: Arm_R
+    100004: Armature
+    100006: Forearm_L
+    100008: Forearm_R
+    100010: Forearm_Twist_1_L
+    100012: Forearm_Twist_1_R
+    100014: Forearm_Twist_2_L
+    100016: Forearm_Twist_2_R
+    100018: Forearm_Twist_3_L
+    100020: Forearm_Twist_3_R
+    100022: Forearm_Twist_4_L
+    100024: Forearm_Twist_4_R
+    100026: //RootNode
+    100028: IK_L
+    100030: IK_R
+    100032: Index_1_L
+    100034: Index_1_R
+    100036: Index_2_L
+    100038: Index_2_R
+    100040: Index_3_L
+    100042: Index_3_R
+    100044: Middle_1_L
+    100046: Middle_1_R
+    100048: Middle_2_L
+    100050: Middle_2_R
+    100052: Middle_3_L
+    100054: Middle_3_R
+    100056: Pinky_1_L
+    100058: Pinky_1_R
+    100060: Pinky_2_L
+    100062: Pinky_2_R
+    100064: Pinky_3_L
+    100066: Pinky_3_R
+    100068: Pole_L
+    100070: Pole_R
+    100072: Ring_1_L
+    100074: Ring_1_R
+    100076: Ring_2_L
+    100078: Ring_2_R
+    100080: Ring_3_L
+    100082: Ring_3_R
+    100084: Root
+    100086: Thumb_1_L
+    100088: Thumb_1_R
+    100090: Thumb_2_L
+    100092: Thumb_2_R
+    100094: Thumb_3_L
+    100096: Thumb_3_R
+    100098: Wrist_L
+    100100: Wrist_R
+    100102: Building_Plan
+    100104: FP_Arms
+    400000: Arm_L
+    400002: Arm_R
+    400004: Armature
+    400006: Forearm_L
+    400008: Forearm_R
+    400010: Forearm_Twist_1_L
+    400012: Forearm_Twist_1_R
+    400014: Forearm_Twist_2_L
+    400016: Forearm_Twist_2_R
+    400018: Forearm_Twist_3_L
+    400020: Forearm_Twist_3_R
+    400022: Forearm_Twist_4_L
+    400024: Forearm_Twist_4_R
+    400026: //RootNode
+    400028: IK_L
+    400030: IK_R
+    400032: Index_1_L
+    400034: Index_1_R
+    400036: Index_2_L
+    400038: Index_2_R
+    400040: Index_3_L
+    400042: Index_3_R
+    400044: Middle_1_L
+    400046: Middle_1_R
+    400048: Middle_2_L
+    400050: Middle_2_R
+    400052: Middle_3_L
+    400054: Middle_3_R
+    400056: Pinky_1_L
+    400058: Pinky_1_R
+    400060: Pinky_2_L
+    400062: Pinky_2_R
+    400064: Pinky_3_L
+    400066: Pinky_3_R
+    400068: Pole_L
+    400070: Pole_R
+    400072: Ring_1_L
+    400074: Ring_1_R
+    400076: Ring_2_L
+    400078: Ring_2_R
+    400080: Ring_3_L
+    400082: Ring_3_R
+    400084: Root
+    400086: Thumb_1_L
+    400088: Thumb_1_R
+    400090: Thumb_2_L
+    400092: Thumb_2_R
+    400094: Thumb_3_L
+    400096: Thumb_3_R
+    400098: Wrist_L
+    400100: Wrist_R
+    400102: Building_Plan
+    400104: FP_Arms
+    2300000: Building_Plan
+    3300000: Building_Plan
+    4300000: FP_Arms
+    4300002: Building_Plan
+    7400000: Draw
+    7400002: Hold_Pose
+    7400004: Holster
+    7400006: Idle
+    9500000: //RootNode
+    13700000: FP_Arms
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Draw
+      takeName: Draw
+      firstFrame: 0
+      lastFrame: 32
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Arm_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Forearm_Twist_1_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Forearm_Twist_1_L/Forearm_Twist_2_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Forearm_Twist_1_L/Forearm_Twist_3_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Forearm_Twist_1_L/Forearm_Twist_4_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L/Index_1_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L/Index_1_L/Index_2_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L/Index_1_L/Index_2_L/Index_3_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L/Middle_1_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L/Middle_1_L/Middle_2_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L/Middle_1_L/Middle_2_L/Middle_3_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L/Pinky_1_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L/Pinky_1_L/Pinky_2_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L/Pinky_1_L/Pinky_2_L/Pinky_3_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L/Ring_1_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L/Ring_1_L/Ring_2_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L/Ring_1_L/Ring_2_L/Ring_3_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L/Thumb_1_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L/Thumb_1_L/Thumb_2_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L/Thumb_1_L/Thumb_2_L/Thumb_3_L
+        weight: 1
+      - path: Armature/Arm_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Forearm_Twist_1_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Forearm_Twist_1_R/Forearm_Twist_2_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Forearm_Twist_1_R/Forearm_Twist_3_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Forearm_Twist_1_R/Forearm_Twist_4_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R/Index_1_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R/Index_1_R/Index_2_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R/Index_1_R/Index_2_R/Index_3_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R/Middle_1_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R/Middle_1_R/Middle_2_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R/Middle_1_R/Middle_2_R/Middle_3_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R/Pinky_1_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R/Pinky_1_R/Pinky_2_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R/Pinky_1_R/Pinky_2_R/Pinky_3_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R/Ring_1_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R/Ring_1_R/Ring_2_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R/Ring_1_R/Ring_2_R/Ring_3_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R/Thumb_1_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R/Thumb_1_R/Thumb_2_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R/Thumb_1_R/Thumb_2_R/Thumb_3_R
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/IK_L
+        weight: 1
+      - path: Armature/Root/IK_R
+        weight: 1
+      - path: Armature/Root/Pole_L
+        weight: 1
+      - path: Armature/Root/Pole_R
+        weight: 1
+      - path: Building_Plan
+        weight: 1
+      - path: FP_Arms
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Hold_Pose
+      takeName: Hold_Pose
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Arm_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Forearm_Twist_1_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Forearm_Twist_1_L/Forearm_Twist_2_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Forearm_Twist_1_L/Forearm_Twist_3_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Forearm_Twist_1_L/Forearm_Twist_4_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L/Index_1_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L/Index_1_L/Index_2_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L/Index_1_L/Index_2_L/Index_3_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L/Middle_1_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L/Middle_1_L/Middle_2_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L/Middle_1_L/Middle_2_L/Middle_3_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L/Pinky_1_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L/Pinky_1_L/Pinky_2_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L/Pinky_1_L/Pinky_2_L/Pinky_3_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L/Ring_1_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L/Ring_1_L/Ring_2_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L/Ring_1_L/Ring_2_L/Ring_3_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L/Thumb_1_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L/Thumb_1_L/Thumb_2_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L/Thumb_1_L/Thumb_2_L/Thumb_3_L
+        weight: 1
+      - path: Armature/Arm_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Forearm_Twist_1_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Forearm_Twist_1_R/Forearm_Twist_2_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Forearm_Twist_1_R/Forearm_Twist_3_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Forearm_Twist_1_R/Forearm_Twist_4_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R/Index_1_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R/Index_1_R/Index_2_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R/Index_1_R/Index_2_R/Index_3_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R/Middle_1_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R/Middle_1_R/Middle_2_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R/Middle_1_R/Middle_2_R/Middle_3_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R/Pinky_1_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R/Pinky_1_R/Pinky_2_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R/Pinky_1_R/Pinky_2_R/Pinky_3_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R/Ring_1_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R/Ring_1_R/Ring_2_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R/Ring_1_R/Ring_2_R/Ring_3_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R/Thumb_1_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R/Thumb_1_R/Thumb_2_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R/Thumb_1_R/Thumb_2_R/Thumb_3_R
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/IK_L
+        weight: 1
+      - path: Armature/Root/IK_R
+        weight: 1
+      - path: Armature/Root/Pole_L
+        weight: 1
+      - path: Armature/Root/Pole_R
+        weight: 1
+      - path: Building_Plan
+        weight: 1
+      - path: FP_Arms
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Holster
+      takeName: Holster
+      firstFrame: 0
+      lastFrame: 14
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Arm_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Forearm_Twist_1_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Forearm_Twist_1_L/Forearm_Twist_2_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Forearm_Twist_1_L/Forearm_Twist_3_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Forearm_Twist_1_L/Forearm_Twist_4_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L/Index_1_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L/Index_1_L/Index_2_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L/Index_1_L/Index_2_L/Index_3_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L/Middle_1_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L/Middle_1_L/Middle_2_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L/Middle_1_L/Middle_2_L/Middle_3_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L/Pinky_1_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L/Pinky_1_L/Pinky_2_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L/Pinky_1_L/Pinky_2_L/Pinky_3_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L/Ring_1_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L/Ring_1_L/Ring_2_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L/Ring_1_L/Ring_2_L/Ring_3_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L/Thumb_1_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L/Thumb_1_L/Thumb_2_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L/Thumb_1_L/Thumb_2_L/Thumb_3_L
+        weight: 1
+      - path: Armature/Arm_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Forearm_Twist_1_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Forearm_Twist_1_R/Forearm_Twist_2_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Forearm_Twist_1_R/Forearm_Twist_3_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Forearm_Twist_1_R/Forearm_Twist_4_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R/Index_1_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R/Index_1_R/Index_2_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R/Index_1_R/Index_2_R/Index_3_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R/Middle_1_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R/Middle_1_R/Middle_2_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R/Middle_1_R/Middle_2_R/Middle_3_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R/Pinky_1_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R/Pinky_1_R/Pinky_2_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R/Pinky_1_R/Pinky_2_R/Pinky_3_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R/Ring_1_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R/Ring_1_R/Ring_2_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R/Ring_1_R/Ring_2_R/Ring_3_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R/Thumb_1_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R/Thumb_1_R/Thumb_2_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R/Thumb_1_R/Thumb_2_R/Thumb_3_R
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/IK_L
+        weight: 1
+      - path: Armature/Root/IK_R
+        weight: 1
+      - path: Armature/Root/Pole_L
+        weight: 1
+      - path: Armature/Root/Pole_R
+        weight: 1
+      - path: Building_Plan
+        weight: 1
+      - path: FP_Arms
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: Idle
+      firstFrame: 0
+      lastFrame: 99
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Arm_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Forearm_Twist_1_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Forearm_Twist_1_L/Forearm_Twist_2_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Forearm_Twist_1_L/Forearm_Twist_3_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Forearm_Twist_1_L/Forearm_Twist_4_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L/Index_1_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L/Index_1_L/Index_2_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L/Index_1_L/Index_2_L/Index_3_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L/Middle_1_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L/Middle_1_L/Middle_2_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L/Middle_1_L/Middle_2_L/Middle_3_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L/Pinky_1_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L/Pinky_1_L/Pinky_2_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L/Pinky_1_L/Pinky_2_L/Pinky_3_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L/Ring_1_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L/Ring_1_L/Ring_2_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L/Ring_1_L/Ring_2_L/Ring_3_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L/Thumb_1_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L/Thumb_1_L/Thumb_2_L
+        weight: 1
+      - path: Armature/Arm_L/Forearm_L/Wrist_L/Thumb_1_L/Thumb_2_L/Thumb_3_L
+        weight: 1
+      - path: Armature/Arm_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Forearm_Twist_1_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Forearm_Twist_1_R/Forearm_Twist_2_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Forearm_Twist_1_R/Forearm_Twist_3_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Forearm_Twist_1_R/Forearm_Twist_4_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R/Index_1_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R/Index_1_R/Index_2_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R/Index_1_R/Index_2_R/Index_3_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R/Middle_1_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R/Middle_1_R/Middle_2_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R/Middle_1_R/Middle_2_R/Middle_3_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R/Pinky_1_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R/Pinky_1_R/Pinky_2_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R/Pinky_1_R/Pinky_2_R/Pinky_3_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R/Ring_1_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R/Ring_1_R/Ring_2_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R/Ring_1_R/Ring_2_R/Ring_3_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R/Thumb_1_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R/Thumb_1_R/Thumb_2_R
+        weight: 1
+      - path: Armature/Arm_R/Forearm_R/Wrist_R/Thumb_1_R/Thumb_2_R/Thumb_3_R
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/IK_L
+        weight: 1
+      - path: Armature/Root/IK_R
+        weight: 1
+      - path: Armature/Root/Pole_L
+        weight: 1
+      - path: Armature/Root/Pole_R
+        weight: 1
+      - path: Building_Plan
+        weight: 1
+      - path: FP_Arms
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
