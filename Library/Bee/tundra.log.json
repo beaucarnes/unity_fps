@@ -1,0 +1,4 @@
+{"msg":"init","dagFile":"Library/Bee/1900b0aE.dag","targets":["ScriptAssemblies"]}
+{"msg":"enqueueNode","enqueuedNodeAnnotation":"ScriptAssemblies","enqueuedNodeIndex":1}
+{"msg":"newNode","annotation":"ScriptAssemblies","index":1}
+{"msg":"runNodeAction","annotation":"ScriptAssemblies","index":1}
